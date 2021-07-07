@@ -1,0 +1,10 @@
+#dependencier
+node_modules
+/.pnp 
+.pnp.json
+
+/coverage
+
+build
+
+.env
